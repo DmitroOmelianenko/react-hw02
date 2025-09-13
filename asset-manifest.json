@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DmitroOmelianenko/react-hw02/static/css/main.e6c13ad2.css",
+    "main.js": "/DmitroOmelianenko/react-hw02/static/js/main.dc067769.js",
+    "index.html": "/DmitroOmelianenko/react-hw02/index.html",
+    "main.e6c13ad2.css.map": "/DmitroOmelianenko/react-hw02/static/css/main.e6c13ad2.css.map",
+    "main.dc067769.js.map": "/DmitroOmelianenko/react-hw02/static/js/main.dc067769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dc067769.js"
+  ]
+}
